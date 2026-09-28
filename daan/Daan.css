@@ -1,0 +1,31 @@
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #000000;
+    }
+    ul li {
+        float: left;
+}
+ul li  a {
+        float:Left;
+        display: block; 
+        Color: rgb(144, 150, 151);
+        PAdding: 14px 16px;
+        text-decoration: none;
+
+}
+body {
+    background-color: rgb(152, 146, 146);
+    margin :140px;
+    margin-top: 0px;
+
+    
+}
+html {
+    color: white
+}
+.border {
+    border-style: double;
+}
