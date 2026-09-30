@@ -9,9 +9,17 @@ h1 {
   text-align: center;
   color:rgb(50, 50, 50);
 }
+  .Button-set{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 14px;
+    background-color: rgb(237, 234, 255);
+    color: rgb(87, 31, 87);
+      border-style: double;
+      border-width: 3px;
+      border-color: rgb(50, 50, 50); 
+}
 
-
-ul {
+ul {    
   list-style-type: none;
   margin: 100;
   padding: 0;
@@ -89,12 +97,12 @@ p {
       transform: translate(-50%, -50%);
 }
     .BonusImage1-set {
-  width: 200px;
+  width: 195px;
   height: 100px;
     position: absolute;
     left: 47%;
     top: 80%;
-    transform: translate(-50%, -50%) rotate(-23deg);
+    transform: translate(-50%, -50%) rotate(-19deg);
 }
       .BonusImage2-set {
   width: 210px;
